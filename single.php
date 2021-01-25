@@ -1,4 +1,13 @@
-<?php get_header(); ?>
+<?php
+/* 		POST-TEMPLATE
+
+	*		TODO: Post-Seitentemplate nach Design erstellen
+	*		TODO: ACF einbinden
+	*		TODO: AOS-Animationen erstellen
+
+*/
+
+get_header(); ?>
 
 	<main role="main">
 	<!-- section -->

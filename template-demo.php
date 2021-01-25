@@ -1,4 +1,12 @@
-<?php /* Template Name: Demo Page Template */ get_header(); ?>
+<?php
+/* 		Template Name: Demo Page Template
+
+ 	* 	TODO: Sonderseiten-Template nach Design erstellen
+	* 	TODO: ACF einbinden
+	*		TODO: AOS-Animationen erstellen
+
+*/
+get_header(); ?>
 
 	<main role="main">
 		<!-- section -->

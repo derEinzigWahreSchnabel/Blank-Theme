@@ -1,9 +1,15 @@
 <?php
-/*
- *  Author: Todd Motto | @toddmotto
- *  URL: Spectreblank.com | @Spectreblank
- *  Custom functions, support, custom post types and more.
- */
+/*      INDIVIDUELLE FUNKTIONEN
+
+   *    Author: Erik Jung | @Erik1645
+   *    URL: 5pectre.com | @Spectreblank
+   *    Individuelle Funktionen, Hilfestellung, Post-Types und mehr.
+   *    TODO: Einen Stylesheet mit dem Pfad "/css/Seiten-Name.css" für JEDE SEITE erstellen.
+   *    TODO: Navigation zuweisen.
+   *    TODO: Custom-Post-Types erstellen
+   *    TODO: Seitenspezifische .js-Dateien den entsprechenden Seiten zuweisen
+   
+*/
 
 /*------------------------------------*\
 	External Modules/Files

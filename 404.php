@@ -1,4 +1,11 @@
-<?php get_header(); ?>
+<?php
+/*    404-WEITERLEITUNG
+
+  *   TODO: 404 Umleitung einrichten
+	*		TODO: Button um zurück zur Startseite zu kommen nicht vergessen
+
+*/
+get_header(); ?>
 
 	<main role="main">
 		<!-- section -->

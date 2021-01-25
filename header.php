@@ -1,4 +1,10 @@
-<!doctype html>
+<!--
+			TODO: Navigation Desktop
+			TODO: Navigation Mobil/Tablet
+			TODO: MetaTags für Google und Facebook
+-->
+
+<!DOCTYPE html>
 <html <?php language_attributes(); ?> class="no-js">
 	<head>
 		<meta charset="<?php bloginfo('charset'); ?>">

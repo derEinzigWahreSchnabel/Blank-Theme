@@ -1,4 +1,11 @@
-<!-- footer -->
+<!-- FOOTER
+
+  *   TODO: Footer nach Design umsetzen
+	*		TODO:	Menüs einbinden
+	*		TODO:	Kundeninformationen vollständig hinterlegen
+	*		TODO: "designed and developed by <a href="https://5pectre.com">5pectre</a>" an letzte Stelle.
+
+-->
 <footer class="footer" role="contentinfo">
 	<div class="w-wrapper grid-3x1">
 
